@@ -8,7 +8,7 @@ http://www.asciitable.com/
 
 https://www.tutorialspoint.com/cprogramming/index.htm
 
-http://www.w3resource.com/c-programming/programming-in-c.php
+http://www.w3resource.com/c-programming-exercises/
 
 http://fresh2refresh.com/c-programming/c-language-history/
 
